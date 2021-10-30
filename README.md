@@ -7,7 +7,7 @@ Clean and minimalist React Native template for a quick start with TypeScript.
 
 ⭐ Features Elegant usage directly within the React Native CLI Consistent with the default React Native template Minimal additional dependencies
 
-▶️ Usage npx react-native init SomeApp --template https://github.com/abduliOS/RCTemplate.git
+▶️ Usage npx react-native init SomeApp --template https://github.com/abduliOS/TestTemplate.git
 
 See the below table to find out which version of the template to use.
 
