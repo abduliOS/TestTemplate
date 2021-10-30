@@ -9,7 +9,7 @@ Clean and minimalist React Native template for a quick start with TypeScript.
 
 ▶️ Usage npx react-native init SomeApp --template https://github.com/abduliOS/TestTemplate.git
 
-See the below table to find out which version of the template to use.
+If any issues are discovered with above comment try below command line options.
 
 ⚠️ React Native CLI This template only works with the new CLI. Make sure you have uninstalled the legacy react-native-cli first (npm uninstall -g react-native-cli) for the below command to work. If you wish to not use npx, you can also install the new CLI globally (npm i -g @react-native-community/cli or yarn global add @react-native-community/cli).
 
